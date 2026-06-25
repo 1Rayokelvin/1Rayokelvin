@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mayank Soni
 
-<!--
-**1Rayokelvin/1Rayokelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student at the University of Hyderabad interested in computational and theoretical physics.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Singular optics and polarization singularities
+* Optical speckle fields and topological structures
+* Computational electromagnetism
+* Numerical methods for physical systems
+* Scientific software development
+
+## Current Work
+
+I am an undergraduate researcher at the University of Hyderabad, working under Prof. Nirmal K. Viswanathan on polarization singularities and optical speckle fields.
+
+My recent work includes the study of dimensional crossover phenomena in Gaussian speckle fields and the development of computational tools for analyzing singular structures in electromagnetic fields.
+
+## Projects
+
+### VectorWaves
+
+Open-source Python library for constructing and analyzing electromagnetic fields through discrete plane-wave expansions.
+
+Repository: [VectorWaves](https://github.com/1Rayokelvin/VectorWaves)
+
+## Technical Skills
+
+**Languages:** Python, Julia
+
+**Scientific Computing:** NumPy, SciPy, Matplotlib
+
+**Tools:** Git, LaTeX
+
+## Links
+
+* Website: https://1rayokelvin.github.io
+* GitHub: https://github.com/1Rayokelvin
+* PyPI: https://pypi.org/project/vectorwaves/
